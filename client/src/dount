@@ -1,0 +1,14 @@
+// jais hum dekh skate hai post.js fronted wla usme call handlepostliked uske upar simple tarike se function likh rahe hai
+
+
+// 2)jab hum craetepost kar rahe hai to upload karne kai baad refresh karna  pad raha hai display karwane kai liye agar isko hatana hai t0 jab mai dispatch kar raha hoo to uske unique id bhi pass karunga har post kai lioye
+// dispatch(getUserProfile({
+//         userId:myProfile?._id
+
+
+//       })); is tarha se 
+
+// agar is bande ko mai follow kar raha hoo to ye mere following list mai hoga
+
+
+// if i am standing other profile then we should not see createpost option

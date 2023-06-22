@@ -1,0 +1,60 @@
+
+
+.Login {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .login-box{
+padding: 40px;
+border: 2px solid black;
+border-radius: 4px;
+
+    }
+
+    .heading{
+
+        text-align: center;
+    }
+
+    label,input{
+
+        display: block;
+        width:100%;
+        margin-block: 8px;
+          
+    }
+
+    label{
+
+        font-weight: bold;
+    }
+
+    input{
+
+        padding: 8px 16px;
+        border-radius:3px;
+    }
+
+    .submit{
+
+        background-color: rgb(50, 50, 144);
+        color: white;
+        border:none;
+        margin-top:16px;
+    }
+.submit:hover{
+
+    background-color:aqua;
+    font-weight: bold;
+}
+
+.subheading{
+margin-top: 16px;
+
+}
+
+
+}
