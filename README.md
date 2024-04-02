@@ -22,14 +22,14 @@ Endpoints\
 Description: Register a new user.\
 `POST /login`\
 Description: Authenticate user login.\
-`GET /refresh`
-Description: Refresh user access token.
-POST /logout
+`GET /refresh`\
+Description: Refresh user access token.\
+`POST /logout`\
 Description: Logout current user. 
-PUT /
+`PUT /`\
 Description: Update a post.
-DELETE /
-Description: Delete a post.
+`DELETE /`\
+Description: Delete a post.\
 
 Bcrypt Mechanism:
 This section outlines the use of bcrypt for secure password comparison:
