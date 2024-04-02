@@ -16,13 +16,13 @@ And seamlessly connect with posts from those they follow.
 `Show follow list`: Provided users with a convenient way to view the list of profiles they follow\
 
 ## APIs
-This section outlines APIs.
-Endpoints
-`POST /signup`
-Description: Register a new user.
-`POST /login`
-Description: Authenticate user login.
-GET /refresh
+This section outlines APIs.\
+Endpoints\
+`POST /signup`\
+Description: Register a new user.\
+`POST /login`\
+Description: Authenticate user login.\
+`GET /refresh`
 Description: Refresh user access token.
 POST /logout
 Description: Logout current user. 
