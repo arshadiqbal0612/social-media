@@ -31,7 +31,7 @@ Description: Update a post.\
 `DELETE /`\
 Description: Delete a post.\
 
-Bcrypt Mechanism:\
+`Bcrypt Mechanism`:\
 This section outlines the use of bcrypt for secure password comparison:\
 Mechanism\
 Secure Comparison: Bcrypt's compare() function securely compares plaintext passwords with hashed passwords.\
