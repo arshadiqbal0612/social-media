@@ -7,7 +7,7 @@ Engage with content by liking and posting photos,
 And seamlessly connect with posts from those they follow.
 
 ## Features:
- `User registration`: Implemented a seamless registration process for new users.
+ `User registration`: Implemented a seamless registration process for new users.\
  `User login`: Enabled secure login functionality for registered users.
 Create post: Provided users with the ability to craft and share their own posts.
 View post: Developed a feature allowing users to browse through posts from themselves and others.
