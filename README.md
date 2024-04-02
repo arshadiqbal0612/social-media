@@ -1,12 +1,12 @@
 Social media Application
 
-Description:
+## Description:
 I've developed a dynamic social media platform,
 Where users can effortlessly follow and unfollow,
 Engage with content by liking and posting photos,
 And seamlessly connect with posts from those they follow.
 
-Features:
+## Features:
 User registration: Implemented a seamless registration process for new users.
 User login: Enabled secure login functionality for registered users.
 Create post: Provided users with the ability to craft and share their own posts.
@@ -15,7 +15,7 @@ Like post: Implemented the option for users to express appreciation for posts by
 Follow/unfollow: Enabled users to connect with others by following or unfollowing their profiles.
 Show follow list: Provided users with a convenient way to view the list of profiles they follow
 
-APIs
+## APIs
 This section outlines APIs.
 Endpoints
 POST /signup
