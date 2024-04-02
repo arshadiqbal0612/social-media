@@ -1,4 +1,4 @@
-`Social media Application`
+Social media Application
 
 ## Description:
 I've developed a dynamic social media platform,
