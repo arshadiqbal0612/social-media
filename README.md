@@ -8,12 +8,12 @@ And seamlessly connect with posts from those they follow.
 
 ## Features:
  `User registration`: Implemented a seamless registration process for new users.\
- `User login`: Enabled secure login functionality for registered users.
-Create post: Provided users with the ability to craft and share their own posts.
-View post: Developed a feature allowing users to browse through posts from themselves and others.
-Like post: Implemented the option for users to express appreciation for posts by liking them.
-Follow/unfollow: Enabled users to connect with others by following or unfollowing their profiles.
-Show follow list: Provided users with a convenient way to view the list of profiles they follow
+ `User login`: Enabled secure login functionality for registered users.\
+`Create post`: Provided users with the ability to craft and share their own posts.\
+`View post`: Developed a feature allowing users to browse through posts from themselves and others.\
+`Like post`: Implemented the option for users to express appreciation for posts by liking them.\
+`Follow/unfollow`: Enabled users to connect with others by following or unfollowing their profiles.\
+`Show follow list`: Provided users with a convenient way to view the list of profiles they follow\
 
 ## APIs
 This section outlines APIs.
