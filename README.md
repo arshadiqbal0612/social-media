@@ -8,7 +8,7 @@ And seamlessly connect with posts from those they follow.
 
 ## Features:
  `User registration`: Implemented a seamless registration process for new users.
-### `User login`: Enabled secure login functionality for registered users.
+ `User login`: Enabled secure login functionality for registered users.
 Create post: Provided users with the ability to craft and share their own posts.
 View post: Developed a feature allowing users to browse through posts from themselves and others.
 Like post: Implemented the option for users to express appreciation for posts by liking them.
@@ -18,9 +18,9 @@ Show follow list: Provided users with a convenient way to view the list of profi
 ## APIs
 This section outlines APIs.
 Endpoints
-POST /signup
+`POST /signup`
 Description: Register a new user.
-POST /login
+`POST /login`
 Description: Authenticate user login.
 GET /refresh
 Description: Refresh user access token.
