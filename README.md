@@ -25,9 +25,9 @@ Description: Authenticate user login.\
 `GET /refresh`\
 Description: Refresh user access token.\
 `POST /logout`\
-Description: Logout current user. 
+Description: Logout current user. \
 `PUT /`\
-Description: Update a post.
+Description: Update a post.\
 `DELETE /`\
 Description: Delete a post.\
 
