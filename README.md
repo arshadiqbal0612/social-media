@@ -39,12 +39,12 @@ Description: Delete a post.\
 This section outlines the use of bcrypt for secure password comparison:\
 # Mechanism\
 Secure Comparison: Bcrypt's compare() function securely compares plaintext passwords with hashed passwords.\
-# Benefits\
+## Benefits\
 Enhanced Security: Comparing hashed passwords protects user data, even in case of a breach.\
 Ease of Use: Bcrypt simplifies secure password comparison for developers.\
-# Integration\
+## Integration\
 Node.js Usage: Utilize compare() from the bcrypt package for password comparison.\
-# Security Considerations\
+## Security Considerations\
 `Data Sensitivity`: Treat passwords as sensitive data to prevent unauthorized access.\
 Parameter Security: Safeguard bcrypt parameters and secrets.\
 Contact Information\
