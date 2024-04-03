@@ -37,7 +37,13 @@ Description: Retrieve feed data, including posts from users that the current use
 `GET /getMyPosts`\
 Description: Retrieve posts created by the current user.\
 `GET /getUserPosts`
-Description: Retrieve posts created by a specific user.
+Description: Retrieve posts created by a specific user.\
+`POST /getUserProfile`\
+Description: Retrieve profile information of a specific user.\
+`GET /getMyInfo`\
+Description: Retrieve profile information of the current user.\
+PUT /
+Description: Update profile information of the current user.
 
 
 
@@ -52,7 +58,7 @@ Ease of Use: Bcrypt simplifies secure password comparison for developers.\
 Node.js Usage: Utilize compare() from the bcrypt package for password comparison.\
 `Security Considerations`
 `Data Sensitivity`: Treat passwords as sensitive data to prevent unauthorized access.\
-Parameter Security: Safeguard bcrypt parameters and secrets.\
+`Parameter Security`: Safeguard bcrypt parameters and secrets.\
 `Contact Information`
 For assistance or issues, contact [Your Contact Information].
 
