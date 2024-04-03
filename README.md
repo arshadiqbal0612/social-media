@@ -30,8 +30,7 @@ Description: Authenticate user login.\
 Description: Refresh user access token.\
 `POST /logout`\
 Description: Logout current user. \
-`PUT /`\
-Description: Update a post.\
+
 
 
 `Bcrypt Mechanism`:\
