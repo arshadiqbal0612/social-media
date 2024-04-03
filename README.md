@@ -39,7 +39,7 @@ Description: Retrieve posts created by a specific user.\
 Description: Retrieve profile information of a specific user.\
 `GET /getMyInfo`\
 Description: Retrieve profile information of the current user.\
-PUT /
+`PUT `/
 Description: Update profile information of the current user.
 
 
