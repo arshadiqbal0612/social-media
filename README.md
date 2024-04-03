@@ -16,7 +16,7 @@ And seamlessly connect with posts from those they follow.
 `Show follow list`: Provided users with a convenient way to view the list of profiles they follow\
 `Logout`:Implemented logout functionality for users.\
 `Update Profile`:Implemented functionality for users to update their profile information such as profile picture, bio, etc.\
-`Get FeedData`:Implemented functionality to fetch and display posts or updates from users that the current user follows.\
+`Get FeedData`:Implemented functionality to fetch and display posts or updates from users that the current user follows.
 
 
 ## APIs
