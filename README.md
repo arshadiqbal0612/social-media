@@ -30,6 +30,14 @@ Description: Authenticate user login.\
 Description: Refresh user access token.\
 `POST /logout`\
 Description: Logout current user. \
+`GET /follow`\
+Description: Toggle follow/unfollow for a specific user.\
+`GET /getFeedData`\
+Description: Retrieve feed data, including posts from users that the current user follows.\
+`GET /getMyPosts`\
+Description: Retrieve posts created by the current user.\
+`GET /getUserPosts`
+Description: Retrieve posts created by a specific user.
 
 
 
