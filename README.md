@@ -47,8 +47,8 @@ Node.js Usage: Utilize compare() from the bcrypt package for password comparison
 ## Security Considerations
 `Data Sensitivity`: Treat passwords as sensitive data to prevent unauthorized access.\
 Parameter Security: Safeguard bcrypt parameters and secrets.\
-Contact Information\
-For assistance or issues, contact [Your Contact Information].\
+`Contact Information`
+For assistance or issues, contact [Your Contact Information].
 
 
 
