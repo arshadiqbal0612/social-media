@@ -1,10 +1,7 @@
 # Social media Application
 
 ## Description:
-I've developed a dynamic social media platform,
-Where users can effortlessly follow and unfollow,
-Engage with content by liking and posting photos,
-And seamlessly connect with posts from those they follow.
+On our social media platform, users can post photos and engage with content by liking posts. Additionally, users can follow and unfollow others seamlessly, and connect with posts from those they follow,
 
 ## Features:
  `User registration`: Implemented a seamless registration process for new users.\
