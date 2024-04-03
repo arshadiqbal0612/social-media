@@ -32,8 +32,7 @@ Description: Refresh user access token.\
 Description: Logout current user. \
 `PUT /`\
 Description: Update a post.\
-`DELETE /`\
-Description: Delete a post.
+
 
 `Bcrypt Mechanism`:\
 This section outlines the use of bcrypt for secure password comparison:\
