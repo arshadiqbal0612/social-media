@@ -14,6 +14,9 @@ And seamlessly connect with posts from those they follow.
 `Like post`: Implemented the option for users to express appreciation for posts by liking them.\
 `Follow/unfollow`: Enabled users to connect with others by following or unfollowing their profiles.\
 `Show follow list`: Provided users with a convenient way to view the list of profiles they follow\
+`Logout`:Implemented logout functionality for users./
+`Update`:Profile:Implemented functionality for users to update their profile information such as profile picture, bio, etc./
+
 
 ## APIs
 `This section outlines APIs.`\
