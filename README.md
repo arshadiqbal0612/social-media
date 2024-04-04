@@ -21,13 +21,13 @@ On our social media platform, users can post photos and engage with content by l
 Endpoints\
 `POST /signup`\
 Description: Register a new user.\
-req:\
+Request:\
 {
 	"email":"wow3@gmail.com",
 	"password":"12345",
 	"name":"wow"
 }\
-response:\
+Response:\
 {
 	"user": {
 		"email": "wow3@gmail.com",
@@ -44,6 +44,20 @@ response:\
 }\
 `POST /login`\
 Description: Authenticate user login.\
+Request:\
+{
+	"email":"wow3@gmail.com",
+	"password":"12345"
+}\
+Response:\
+{
+	"status": "ok",
+	"statusCode": 200,
+	"result": {
+		"accesstoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjBkZjJhOTBmNDI5ZWFkODA0MjM4YmYiLCJpYXQiOjE3MTIxOTMzMzQsImV4cCI6MTcxMjI3OTczNH0._Rj5Fbw_cMghw8ZQhY3dN_W7SES2icM6RTFavdzf-yQ"
+	}
+}
+
 `GET /refresh`\
 Description: Refresh user access token.\
 `POST /logout`\
