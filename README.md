@@ -41,7 +41,7 @@ response:\
 		"updatedAt": "2024-04-04T00:22:01.875Z",
 		"__v": 0
 	}
-}
+}\
 `POST /login`\
 Description: Authenticate user login.\
 `GET /refresh`\
