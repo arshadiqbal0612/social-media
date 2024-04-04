@@ -21,6 +21,7 @@ On our social media platform, users can post photos and engage with content by l
 Endpoints\
 `POST /signup`\
 Description: Register a new user.\
+
 Request:\
 {
 	"email":"wow3@gmail.com",
@@ -42,6 +43,7 @@ Response:\
 		"__v": 0
 	}
 }\
+
 `POST /login`\
 Description: Authenticate user login.\
 Request:\
