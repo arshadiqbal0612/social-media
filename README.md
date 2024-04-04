@@ -18,21 +18,23 @@ On our social media platform, users can post photos and engage with content by l
 
 ## APIs
 `This section outlines APIs.`\
-**Endpoints**:/signup`\
-Method:POST
+**Endpoints**: /signup\
+**Method**: POST \
 Description: Register a new user.\
-Request:\
+**Request:**
+
 {
-	"email":"wow3@gmail.com",
+	"email":"arshad@gmail.com",
 	"password":"12345",
-	"name":"wow"
-}\
-Response:\
+	"name":"arshad iqbal"
+}
+
+**Response:**
 {
 	"user": {
-		"email": "wow3@gmail.com",
+		"email": "arshad@gmail.com",
 		"password": "$2b$10$KQYjoveqjtL3dsGj0vwpzOpGSlr1dQ1Qdfh2Nmwe9tXbbslhL5niC",
-		"name": "wow",
+		"name": "arshad iqbal",
 		"followers": [],
 		"followings": [],
 		"posts": [],
@@ -47,7 +49,7 @@ Response:\
 Description: Authenticate user login.\
 Request:\
 {
-	"email":"wow3@gmail.com",
+	"email":"arshad@gmail.com",
 	"password":"12345"
 }\
 Response:\
