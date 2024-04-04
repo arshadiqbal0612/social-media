@@ -21,6 +21,27 @@ On our social media platform, users can post photos and engage with content by l
 Endpoints\
 `POST /signup`\
 Description: Register a new user.\
+req:
+{
+	"email":"wow3@gmail.com",
+	"password":"12345",
+	"name":"wow"
+}
+response:
+{
+	"user": {
+		"email": "wow3@gmail.com",
+		"password": "$2b$10$KQYjoveqjtL3dsGj0vwpzOpGSlr1dQ1Qdfh2Nmwe9tXbbslhL5niC",
+		"name": "wow",
+		"followers": [],
+		"followings": [],
+		"posts": [],
+		"_id": "660df2a90f429ead804238bf",
+		"createdAt": "2024-04-04T00:22:01.875Z",
+		"updatedAt": "2024-04-04T00:22:01.875Z",
+		"__v": 0
+	}
+}
 `POST /login`\
 Description: Authenticate user login.\
 `GET /refresh`\
