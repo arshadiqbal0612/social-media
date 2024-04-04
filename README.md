@@ -18,7 +18,7 @@ On our social media platform, users can post photos and engage with content by l
 
 ## APIs
 `This section outlines APIs.`\
-Endpoints\
+Endpoints:
 `POST /signup`\
 Description: Register a new user.\
 Request:\
@@ -80,7 +80,7 @@ Description: Update profile information of the current user.
 
 
 
-`Bcrypt Mechanism`:\
+## Bcrypt Mechanism:\
 This section outlines the use of bcrypt for secure password comparison:\
  `Mechanism`
 Secure Comparison: Bcrypt's compare() function securely compares plaintext passwords with hashed passwords.\
