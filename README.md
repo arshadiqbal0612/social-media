@@ -21,13 +21,13 @@ On our social media platform, users can post photos and engage with content by l
 Endpoints\
 `POST /signup`\
 Description: Register a new user.\
-req:
+req:\
 {
 	"email":"wow3@gmail.com",
 	"password":"12345",
 	"name":"wow"
-}
-response:
+}\
+response:\
 {
 	"user": {
 		"email": "wow3@gmail.com",
